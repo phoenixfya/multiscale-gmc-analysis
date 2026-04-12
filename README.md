@@ -19,7 +19,13 @@ Density–scale relations are then compared between GMC environments, and approx
 ## Main Results
 - Cold gas surface density increases toward smaller spatial scales in both GMC environments  
 - The 90th percentile grows faster than the mean, indicating increasingly dominant dense substructure at small scales  
-- The two GMC environments exhibit distinct scaling behavior, suggesting that GMC surroundings are not self-similar and may reflect different dynamical conditions  
+- The two GMC environments exhibit distinct scaling behavior, suggesting that GMC surroundings are not self-similar and may reflect different dynamical conditions
+
+- ## Key Result: Density Scaling Law
+
+![Scaling](figures/gmc_density_scaling_fit.png)
+
+Cold gas surface density follows an approximate power-law scaling with spatial scale (Σ ∝ R^(-α)), with different GMC environments exhibiting distinct slopes (α ≈ 0.40 vs 0.61), indicating variation in substructure and density concentration.
 
 ## Methods and Tools
 - Python  
