@@ -23,9 +23,9 @@ Density–scale relations are then compared between GMC environments, and approx
 
 - ## Key Result: Density Scaling Law
 
-<img width="2065" height="1430" alt="download (4)" src="https://github.com/user-attachments/assets/44463ef6-231a-42b1-b85c-5075c5f29a29" />
-<img width="4359" height="1733" alt="download (2)" src="https://github.com/user-attachments/assets/c6de1704-6b27-4b9e-bd32-08d3beaed9d2" />
-<img width="4359" height="1733" alt="download (3)" src="https://github.com/user-attachments/assets/3328797f-128c-4597-bf9a-16e1c235f89e" />
+<img width="2065" height="1430" alt="gmc_density_scaling" src="https://github.com/user-attachments/assets/f7c68812-8d72-468a-8e80-5be5c8587432" />
+<img width="4359" height="1733" alt="GMC_1_multiscale" src="https://github.com/user-attachments/assets/f8df2895-5d28-41f3-8c32-39e232f22d9c" />
+<img width="4359" height="1733" alt="GMC_2_multiscale" src="https://github.com/user-attachments/assets/8dc3ca14-b6b1-47d7-9cf2-59f7e8c0dfff" />
 
 Cold gas surface density follows an approximate power-law scaling with spatial scale (Σ ∝ R^(-α)), with different GMC environments exhibiting distinct slopes (α ≈ 0.40 vs 0.61), indicating variation in substructure and density concentration.
 
