@@ -2,6 +2,8 @@
 
 This project investigates how cold gas surface density scales with spatial size around Giant Molecular Clouds (GMCs) in a FIRE-2 galaxy simulation.
 
+figures (https://github.com/phoenixfya/multiscale-gmc-analysis/commit/7d1a6537f1aa25e949bdd4322ce9bccf029564c0#commitcomment-182218445)
+
 ## Scientific Question
 How does cold gas density vary across spatial scales around GMC environments, and do different GMCs exhibit distinct scaling behavior?
 
