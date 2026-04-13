@@ -23,7 +23,7 @@ Density–scale relations are then compared between GMC environments, and approx
 
 - ## Key Result: Density Scaling Law
 
-[9a340a36-e70b-49e0-a2eb-55af7bee17d0.pdf](https://github.com/user-attachments/files/26663100/9a340a36-e70b-49e0-a2eb-55af7bee17d0.pdf)
+<img width="2065" height="1430" alt="download (4)" src="https://github.com/user-attachments/assets/44463ef6-231a-42b1-b85c-5075c5f29a29" />
 <img width="4359" height="1733" alt="download (2)" src="https://github.com/user-attachments/assets/c6de1704-6b27-4b9e-bd32-08d3beaed9d2" />
 <img width="4359" height="1733" alt="download (3)" src="https://github.com/user-attachments/assets/3328797f-128c-4597-bf9a-16e1c235f89e" />
 
