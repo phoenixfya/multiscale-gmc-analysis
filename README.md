@@ -1,6 +1,10 @@
 # Multiscale GMC Analysis (FIRE-2)
 
-This project investigates how cold gas surface density scales with spatial size around Giant Molecular Clouds (GMCs) in a FIRE-2 galaxy simulation.
+This project analyzes how cold gas density scales with spatial size around giant molecular clouds (GMCs) in FIRE-2 simulations.
+I find that different GMC environments follow distinct power-law scaling relations (Σ ∝ R^{-α}), indicating variation in density concentration and structure.
+This suggests that GMCs are not universally self-similar and may reflect different dynamical regimes tied to star formation.
+
+The steeper scaling in GMC 2 (α ≈ 0.61) suggests a more centrally concentrated, possibly gravitationally bound structure, while the shallower scaling in GMC 1 indicates a more diffuse, turbulent environment. This difference implies that GMC environments are not self-similar across scales and may reflect varying dynamical states relevant to star formation efficiency.
 
 figures (https://github.com/phoenixfya/multiscale-gmc-analysis/commit/7d1a6537f1aa25e949bdd4322ce9bccf029564c0#commitcomment-182218445)
 
